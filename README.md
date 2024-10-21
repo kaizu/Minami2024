@@ -1,4 +1,4 @@
 # Minami2024
 
-[![DOI](https://zenodo.org/badge/778255.svg)](https://zenodo.org/badge/latestdoi/778255)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13958868.svg)](https://doi.org/10.5281/zenodo.13958868)
 
